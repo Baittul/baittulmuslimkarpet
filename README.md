@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -10,7 +10,7 @@
 <body>
     <header>
         <div class="navbar">
-            <div class="logo">Baittulmuslim</div>
+    
             <nav>
                 <ul>
                     <li><a href="#">Contact</a></li>
